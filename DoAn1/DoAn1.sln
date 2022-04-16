@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DoAn1", "DoAn1\DoAn1.pyproj", "{85F93D87-16B9-4DF6-AE43-D7537A837DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85F93D87-16B9-4DF6-AE43-D7537A837DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F93D87-16B9-4DF6-AE43-D7537A837DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B362AD-6311-41D4-A2DC-E60397BFD1FE}
+	EndGlobalSection
+EndGlobal
